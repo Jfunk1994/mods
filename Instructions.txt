@@ -1,0 +1,12 @@
+This is a repository of my(Bishop's) current mod build for minecraft 1.7.10.
+
+It is designed to be cloned right into a minecraft instance and to 
+   replace the instance's mods folder with itself, so staying up
+   to date only requires pressing sync in Github.
+
+I'm still working out how who can pull from github, so if you have any
+   issues please contact me an I'll try to fix it.
+
+If there are any problems with mods causing crashes or what not, 
+   submit an issue report in github and I'll do my best to resolve it
+   when fixes are released.
